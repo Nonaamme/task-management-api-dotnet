@@ -6,7 +6,7 @@ A simple REST API for managing tasks. **Junior backend project** — portfolio-r
 
 **Backend:** C#, .NET 8, ASP.NET Core Web API  
 **Database:** SQLite, Entity Framework Core 8  
-**Tools:** Swagger (Swashbuckle), Git
+**Tools:** Swagger, Git
 
 ## Features / Endpoints
 
