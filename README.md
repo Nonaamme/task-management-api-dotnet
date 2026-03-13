@@ -30,7 +30,7 @@ A simple REST API for managing tasks. **Junior backend project** — portfolio-r
 
 ## API Preview
 
-![Swagger Screenshot](docs/swagger_screenshot.png)
+![Swagger Screenshot](TaskManagementAPI/docs/swagger_screenshot.png)
 
 ## Contact
 
