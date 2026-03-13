@@ -28,6 +28,10 @@ A simple REST API for managing tasks. **Junior backend project** — portfolio-r
    - **HTTP:** `http://localhost:5111/swagger`
    - **HTTPS:** `https://localhost:7194/swagger`
 
+## API Preview
+
+![Swagger Screenshot](swagger_screenshot.png)
+
 ## Contact
 
 - **GitHub:** https://github.com/Nonaamme
